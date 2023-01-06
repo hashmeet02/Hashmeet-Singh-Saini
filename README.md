@@ -1,5 +1,4 @@
-# Hashmeet-Singh-Saini
-![/logo2.png]
-About me!
+# Hey 👋! Hashmeet here.
+![logo](/logo3.png)
 
-Hey guys 👋! I am Hashmeet Singh Saini, a 4th semester Computer Programming and Analysis student in Seneca College. In my time at Seneca I proven my 
+### I am Hashmeet Singh Saini, a 4th semester Computer Programming and Analysis student in Seneca College. In my time at Seneca I proven my 
