@@ -3,7 +3,8 @@
 
 ##### I am Hashmeet Singh Saini, a 4<sup>th</sup> semester Computer Programming and Analysis student in Seneca College. I am a passionate full-stack developer with a love for clean looking softwares. My love for programming has enabled me to have a peek at the backstage of the softwares I always have appreciated.
 
-**LANGUAGES AND TOOLS**  
+
+### LANGUAGES AND TOOLS  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -14,7 +15,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 and definitely more......
 
-**FIND ME HERE**
-
+### FIND ME HERE
+- [💼LinkedIn](https://www.linkedin.com/in/hashmeet-saini-117414227/)
+- [📱Instagram](https://www.instagram.com/hashmeet.saini/)
+- [📷Vsco](https://vs.co/ppfrr7uz)
 
 
