@@ -1,12 +1,12 @@
 # Hey 👋! Hashmeet here.
 ![logo](/logo3.png)
 
-I am Hashmeet Singh Saini, starting my 4<sup>th</sup> semester Computer Programming and Analysis student in Seneca College coming winter. I am a passionate full-stack developer with a love for clean looking softwares. My love for programming has enabled me to have a peek at the backstage of the softwares I always have appreciated.
+I am Hashmeet Singh Saini, 5<sup>th</sup> semester Computer Programming and Analysis student in Seneca College. I am a passionate full-stack developer with a love for clean looking softwares. My love for programming has enabled me to have a peek at the backstage of the softwares I always have appreciated.
 
 ### CURRENTLY
-- 💻Learning in Co-op position of Automation Engineer in Ministry of Public and Business Service Delivery since September.
-- 👔Working as a Research Assistant at Seneca College, to develop an AWS Data Lake to manage internal and smart building data for Andorix.
-- 🎓Finished my program's 4th semester and awarded with President's Honours List for 4.0 GPA in all courses in the first 3 semesters.
+- 💻In my 5th semeter studying more about AWS cloud computing, Azure, Java application development and Docker.
+- 👔Working as a Research Assistant at Seneca College, to develop a native language learning tool for QuillSoft aiming to promote literacy.
+- 🎓Working in a team of 4 developing a smart schedule manager called IntelliCycles.
 
 ### LANGUAGES AND TOOLS  
 <p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a>
