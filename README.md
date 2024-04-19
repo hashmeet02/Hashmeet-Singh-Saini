@@ -31,7 +31,6 @@ I am Hashmeet Singh Saini, 6<sup>th</sup> semester Computer Programming and Anal
 and definitely more......
 
 ### FIND ME HERE
-- [💼LinkedIn](https://www.linkedin.com/in/hashmeet-saini-117414227/)
-- [📷Vsco](https://vs.co/ppfrr7uz)
+- <a href="https://www.linkedin.com/in/hashmeet-singh-saini-117414227" target="_blank">💼LinkedIn</a>
 
 
