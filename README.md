@@ -1,5 +1,5 @@
 # Hey 👋! Hashmeet here.
-![logo](/logo3.png)
+![logo](/17.png)
 
 I am Hashmeet Singh Saini, 6<sup>th</sup> semester Computer Programming and Analysis student in Seneca College. I am a passionate full-stack developer with a love for clean looking softwares. My love for programming has enabled me to have a peek at the backstage of the softwares I always have appreciated.
 
