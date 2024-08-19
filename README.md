@@ -32,6 +32,6 @@ and definitely more......
 
 ### FIND ME HERE
 - <a href="https://www.linkedin.com/in/hashmeet-singh-saini-117414227" target="_blank">💼LinkedIn</a>
-- <a href="https://hashmeetsinghsaini-com.vercel.app/" target="_blank">🔗Portfolio</a>
+- <a href="https://www.hashmeet.dev/" target="_blank">🔗Portfolio</a>
 
 
