@@ -1,12 +1,11 @@
 # Hey 👋! Hashmeet here.
 ![logo](/logo3.png)
 
-I am Hashmeet Singh Saini, 6<sup>th</sup> semester Computer Programming and Analysis student in Seneca College. I am a passionate full-stack developer with a love for clean looking softwares. My love for programming has enabled me to have a peek at the backstage of the softwares I always have appreciated.
+I am Hashmeet Singh Saini, Computer Programming and Analysis graduate. I am a passionate full-stack developer with a love for clean looking softwares. My love for programming has enabled me to have a peek at the backstage of the softwares I always have appreciated.
 
 ### CURRENTLY
-- 💻In my 6th semeter studying about IOS and Android app development, software development in robotics, digital entrepreurship and more.
 - 👔Working as a Research Assistant at Seneca College, to develop a native language learning tool for QuillSoft aiming to promote literacy.
-- 🎓Working in a team of 4 developing a smart schedule manager called IntelliCycles.
+- 👀Looking for fulltime software developer positions.
 
 ### LANGUAGES AND TOOLS  
 <p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a>
