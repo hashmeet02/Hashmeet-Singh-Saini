@@ -29,6 +29,9 @@ I am Hashmeet Singh Saini, Computer Programming and Analysis graduate. I am a pa
 </p>
 and definitely more......
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/hashmeet02)
+
+
 ### FIND ME HERE
 - <a href="https://www.linkedin.com/in/hashmeet-singh-saini-117414227" target="_blank">💼LinkedIn</a>
 - <a href="https://www.hashmeet.dev/" target="_blank">🔗Portfolio</a>
